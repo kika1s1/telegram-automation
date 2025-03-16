@@ -37,7 +37,7 @@ The project is built with a Clean Architecture approach to separate concerns and
   - `BOT_USERNAME` (e.g., `A2SVBouncerBot`)
 
 ## Folder Structure
-
+```bash
 telegram-automation/
 ├── app/
 │   ├── __init__.py
